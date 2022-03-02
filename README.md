@@ -26,6 +26,9 @@ A regular expression (shortened as regex or regexp also referred to as rational 
 
 Regular expressions can be used in most if not all programming languages. They are like a mini-language in themselves. While they can be somewhat difficult to read, with a little practice they are not overly complicated.
 
+### Note of interest
+Because regular expressions are language agnostic, I have provided examples of how to use them for both Python (regularexpressions.ipynb) and R (regularexpressions.rmd). I am not an R user so I did my best to translate the python examples to R. I am sure my R code is not good so please cut me some slack!
+
 ## ** Self Help **
 ### You don't need to remember all this
 
