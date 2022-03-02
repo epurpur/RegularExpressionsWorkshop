@@ -30,11 +30,15 @@ Regular expressions can be used in most if not all programming languages. They a
 ### You don't need to remember all this
 
 [Corey Schafer Youtube](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g)
+
 [Corey Schafer Regular Expressions](https://www.youtube.com/watch?v=sa-TUpSx1JA)
+
 [Corey Schafer Python re Module](https://www.youtube.com/watch?v=K8L6KVGG-7o)
 
 I heavily used these youtube videos to create this workshop. I used these when I was first learning regular expressions. Regular Expressions are not something I use regularly so every time I needd to use them, I refer to these videos. I more or less re-created these youtube tutorials for this workshops because I didn't think I could do any better! These videos are very clearly explained and easy to follow. I highly recommend them.
 
-[Stack Overflow](https://stackoverflow.com/) is a huge user community Q&A type site. Odds are very high that someone has 
+[Stack Overflow](https://stackoverflow.com/) 
+
+StackOverflow is a huge user community Q&A type site. Odds are very high that someone has 
 asked your question before, just google something like "how to make scatter plot matlplotlib python". I'm pretty certain a 
 StackOverflow thread will be one of the first few search results
