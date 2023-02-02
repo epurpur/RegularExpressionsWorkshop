@@ -21,6 +21,17 @@ I'm a part of a group called [research data services](https://data.library.virgi
 * [Research Data Services](https://data.library.virginia.edu/)
 * [Workshop Series](https://data.library.virginia.edu/training/)
 
+## Other Upcoming Workshops
+
+| Workshop | Date | Time |
+| ---- | ---- | ---- |
+| Intro to Regular Expressions                                    |       Wednesday 2/8    |  10:00 - 11:30
+| Data Analysis in Python with Matplotlib and Pandas              |       Wednesday 2/8    |  12:00 - 11:30
+| Python Natural Language Processing / Sentiment Analysis         |       Wednesday 2/15   |  12:00 - 1:30
+| Geospatial Data + Mapping in Python                             |       Wednesday 2/22   |  10:00 - 11:30
+| Python and APIs                                                 |       Wednesday 3/1    |  12:00 - 1:30
+| Python Web Scraping                                             |       Wednesday 3/15   |  12:00 - 1:30
+
 ## ** Regular Expressions **
 A regular expression (shortened as regex or regexp also referred to as rational expression) is a sequence of characters that specifies a search pattern in text. Usually such patterns are used by string-searching algorithms for "find" or "find and replace" operations on strings, or for input validation. It is a technique developed in theoretical computer science and formal language theory.
 
