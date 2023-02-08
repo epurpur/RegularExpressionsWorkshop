@@ -1,5 +1,8 @@
 # Regular Expressions Workshop
 
+
+***Note to Self - include regexr.com in future workshops ***
+
 ## **About Me**
 
 
