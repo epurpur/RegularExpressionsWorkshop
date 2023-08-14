@@ -1,3 +1,7 @@
+```
+-Last updated 10-August-2023
+```
+
 # Regular Expressions Workshop
 
 
@@ -28,12 +32,15 @@ I'm a part of a group called [research data services](https://data.library.virgi
 
 | Workshop | Date | Time |
 | ---- | ---- | ---- |
-| Intro to Regular Expressions                                    |       Wednesday 2/8    |  10:00 - 11:30
-| Data Analysis in Python with Matplotlib and Pandas              |       Wednesday 2/8    |  12:00 - 11:30
-| Python Natural Language Processing / Sentiment Analysis         |       Wednesday 2/15   |  12:00 - 1:30
-| Geospatial Data + Mapping in Python                             |       Wednesday 2/22   |  10:00 - 11:30
-| Python and APIs                                                 |       Wednesday 3/1    |  12:00 - 1:30
-| Python Web Scraping                                             |       Wednesday 3/15   |  12:00 - 1:30
+| Intro to Python pt 1                                                |       Tuesday 8/29   |  12:00 - 1:30pm
+| Intro to Python pt 2                                                |       Tuesday 9/5    |  12:00 - 1:30pm
+| Intro to Version Control w/ Git + Github                            |       Wednesday 9/6  |  1:00 - 2:30pm
+| Python Data Analysis + Visualization                                |       Tuesdady 9/12  |  12:00 - 1:30pm
+| Intro to Regular Expressions                                        |       Wednesday 9/13 |  1:00 - 2:30pm
+| Python and APIs                                                     |       Tuesday 9/19   |  12:00 - 1:30pm
+| Geospatial Data + Mapping in Python                                 |       Tuesday 9/26   |  12:00 - 1:30pm
+| Python Web Dashboards w/ Streamlit                                  |       Tuesday 10/10  |  12:00 - 1:30pm
+
 
 ## ** Regular Expressions **
 A regular expression (shortened as regex or regexp also referred to as rational expression) is a sequence of characters that specifies a search pattern in text. Usually such patterns are used by string-searching algorithms for "find" or "find and replace" operations on strings, or for input validation. It is a technique developed in theoretical computer science and formal language theory.
@@ -43,8 +50,13 @@ Regular expressions can be used in most if not all programming languages. They a
 ### Note of interest
 Because regular expressions are language agnostic, I have provided examples of how to use them for both Python (regularexpressions.ipynb) and R (regularexpressions.rmd). I am not an R user so I did my best to translate the python examples to R. The regular expressions themselves between the two languages are nearly identical, so you can translate from one language to another. I am sure my R code is not good so please cut me some slack!
 
-## ** Self Help **
+### ** Self Help **
 ### You don't need to remember all this
+
+## ChatGPT
+    * ChapGPT has quickly made huge changes to the programming landscape. It is a hugely powerful tool **If you use it the right way!**. I think it is a somewhat slippery slope of how to advise new programmers to use ChatGPT (or other AI tools) so I will refer to some best practices. My personal opinion is that you should use AI minimally when you are starting. When you have a better grasp of basic fundamentals, then you can include AI and greatly increase your speed. **Never accept ChatGPT code verbatim!** Always double check it before including it in your workflows.
+* [How to Effectively Learn to Program w/ ChatGPT](https://towardsdatascience.com/how-to-effectively-start-coding-in-the-era-of-chatgpt-cfc5151e1c42)
+* [Corey Schafer's "How to use ChatGPT"](https://www.youtube.com/watch?v=jRAAaDll34Q)
 
 [Corey Schafer Youtube](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g)
 
