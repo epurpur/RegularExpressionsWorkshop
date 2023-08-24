@@ -1,11 +1,9 @@
 ```
--Last updated 10-August-2023
+-Last updated 24-August-2023
 ```
 
 # Regular Expressions Workshop
 
-
-***Note to Self - include regexr.com in future workshops ***
 
 ## **About Me**
 
@@ -54,9 +52,12 @@ Because regular expressions are language agnostic, I have provided examples of h
 ### You don't need to remember all this
 
 ### ChatGPT
-ChapGPT has quickly made huge changes to the programming landscape. It is a hugely powerful tool **If you use it the right way!**. I think it is a somewhat slippery slope of how to advise new programmers to use ChatGPT (or other AI tools) so I will refer to some best practices. My personal opinion is that you should use AI minimally when you are starting. When you have a better grasp of basic fundamentals, then you can include AI and greatly increase your speed. **Never accept ChatGPT code verbatim!** Always double check it before including it in your workflows. I find existing regular expressions difficult to interpret myself and I think ChatGPT very useful for reverse engineering them. 
+ChatGPT has quickly made huge changes to the programming landscape. It is a hugely powerful tool **If you use it the right way!**. I think it is a somewhat slippery slope of how to advise new programmers to use ChatGPT (or other AI tools) so I will refer to some best practices. My personal opinion is that you should use AI minimally when you are starting. When you have a better grasp of basic fundamentals, then you can include AI and greatly increase your speed. **Never accept ChatGPT code verbatim!** Always double check it before including it in your workflows. I find existing regular expressions difficult to interpret myself and I think ChatGPT very useful for reverse engineering them. 
 * [How to Effectively Learn to Program w/ ChatGPT](https://towardsdatascience.com/how-to-effectively-start-coding-in-the-era-of-chatgpt-cfc5151e1c42)
 * [Corey Schafer's "How to use ChatGPT"](https://www.youtube.com/watch?v=jRAAaDll34Q)
+
+[RegExr](https://regexr.com/)
+* Online tool to learn, build, and test regular expressions
 
 [Corey Schafer Youtube](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g)
 
