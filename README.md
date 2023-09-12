@@ -33,7 +33,7 @@ I'm a part of a group called [research data services](https://data.library.virgi
 | Intro to Python pt 1                                                |       Tuesday 8/29   |  12:00 - 1:30pm
 | Intro to Python pt 2                                                |       Tuesday 9/5    |  12:00 - 1:30pm
 | Intro to Version Control w/ Git + Github                            |       Wednesday 9/6  |  1:00 - 2:30pm
-| Python Data Analysis + Visualization                                |       Tuesdady 9/12  |  12:00 - 1:30pm
+| Python Data Analysis + Visualization                                |       Tuesday 9/12  |  12:00 - 1:30pm
 | Intro to Regular Expressions                                        |       Wednesday 9/13 |  1:00 - 2:30pm
 | Python and APIs                                                     |       Tuesday 9/19   |  12:00 - 1:30pm
 | Geospatial Data + Mapping in Python                                 |       Tuesday 9/26   |  12:00 - 1:30pm
